@@ -1,9 +1,11 @@
 ![ByteDrew](LightLogo.PNG?raw=true "Title")
 # ByteDrew 👋
-Bunoyo LLC is an online based Pentesting Firm & Cloud Enterprise Consultant. We're glad to help anyone and everyone that needs something.
-## Management | Installation
-Use our direct Github Repository for updates to any of our [products](https://bytedrew.com).
-## Usage
-ByteDrew Prides itself in being as simple, and supportive as possible. Our company is dedicated to helping everyone and anyone who needs it. Have a question? Just contact our support and we'll be glad to help you.
+Hi, name is ByteDrew, or just Drew. I'm a big tech nerd and hobbiest.
+Often talking about dumb stuff or invested in half life, I'm open to many projects and often tinkering with things I have almost no idea of just for fun!
+## My website
+To learn more about me, my interest, and my projects, visit my [website](https://bytedrew.com).
+## What I'm good at
+I excell at C# and web languages like Java/Typescript and Lua modifications. I'm fimilar with back and front however mostly doing API or such.
+If you need more information or need me to go more in depth, message me and I'll rant on what I do!
 ## Contributing
-We love additions to our code, but due to the nature of our programs, we need to keep everything wrapped up. We'd love to hear your ideas for new products, additions, and more. Just get to us soon, since we'll probably add it!
+I enjoy creating edits or repairing other's code in communities I'm in. If you see me in a game, or a community and need help, feel free to message me about any issues you have and I might help out!
