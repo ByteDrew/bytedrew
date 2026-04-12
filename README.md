@@ -1,4 +1,4 @@
-![ByteDrew](Logo.PNG?raw=true "Title")
+![ByteDrew](Logo.png?raw=true "Title")
 # ByteDrew 👋
 Hi, name is ByteDrew, or just Drew. I'm a big tech nerd and hobbiest.
 Often talking about dumb stuff or invested in half life, I'm open to many projects and often tinkering with things I have almost no idea of just for fun!
